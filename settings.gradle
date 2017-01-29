@@ -1,0 +1,3 @@
+rootProject.name = 'batBowl'
+include  'core', 'serviceInfrastructure'
+

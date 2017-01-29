@@ -1,0 +1,9 @@
+group 'org.cricketLove'
+version '0.01'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
